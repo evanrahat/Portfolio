@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    bpadding: 0%;
+}
+body {
+    background-size: 870px;
+    background-image: url(Boisakh.jpg);
+}
+menu {
+background-color: beige;
+position: center;
+}
+h1 {
+margin-left: 41%;
+margin-right: 39%;
+background-color: brown;
+border:10%;
+background-blend-mode: darken;
+font-style: italic
+}
+.paragraph {
+color:purple;
+background-color: yellow;
+}
+footer{
+    background-color: black;
+    color: yellow;
+}
